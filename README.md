@@ -1,94 +1,107 @@
 # Hi, I'm Jerishwin Joseph 👋
 
-## About Me
+🎓 Computer Science Engineering Student at Knowledge Institute of Technology
 
-🎓 Completed Computer Science Engineering @ Knowledge Institute of Technology
+💻 Automation Testing Engineer | Java Developer
 
-🚀 Interested in:
-- Python
-- Java
-- AI
+🚀 Passionate about Test Automation, CI/CD, Software Development, and Artificial Intelligence
 
-## Skills
-- Python
-- Selenium
-- PyTest
-- Jenkins
-- Java
-- TestNG
-- Cucumber
-- Figma
-- Canva
-- AI
+---
 
-### Programming
+## 🛠️ Technical Skills
+
+### Programming Languages
 - Python
 - Java
 - SQL
 - C Programming
 
-### Automation Testing
-- Selenium
+### Test Automation
+- Selenium WebDriver
 - PyTest
-- Page Object Model
 - TestNG
 - Cucumber
+- Page Object Model (POM)
 
-### DevOps
+### DevOps & Version Control
 - Jenkins
 - Git
 - GitHub
 
-## Current Focus
+### Design & Productivity Tools
+- Figma
+- Canva
 
-Building Automation Testing Frameworks and CI/CD Pipelines.
-
----
-
-## 🛠️ Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium)
-![PyTest](https://img.shields.io/badge/PyTest-0A9EDC?logo=pytest)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins)
+### Areas of Interest
+- Artificial Intelligence
+- Software Testing
+- Test Automation Framework Design
+- Full Stack Development
 
 ---
 
 ## 🔭 Currently Working On
 
-- Selenium Automation Framework
-- PyTest Automation
-- Jenkins CI/CD
+- Selenium + PyTest Automation Framework
+- Jenkins CI/CD Integration
 - Java Full Stack Development
 
 ---
 
-## 🌱 Currently Learning
+## 🚀 Featured Repositories
 
-- Spring Boot
-- Advanced Selenium Framework Design
-- API Testing
-- Artificial Intelligence
+### 🔹 Selenium PyTest Framework
+Automation testing framework built using Python, Selenium WebDriver, and PyTest following Page Object Model (POM).
 
----
+### 🔹 Selenium Web Automation
+End-to-end web application automation using Selenium.
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jerishwin&show_icons=true)
+### 🔹 Python Fundamentals
+Collection of Python concepts including OOP, File Handling, Exception Handling, and Data Structures.
 
 ---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jerishwin&show_icons=true&theme=tokyonight)
 
 ## 🔥 Contribution Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Jerishwin)
+![GitHub Streak](https://streak-stats.demolab.com?user=Jerishwin&theme=tokyonight)
+
+## 📈 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jerishwin&layout=compact&theme=tokyonight)
 
 ---
 
-## Connect With Me
+## 🛠️ Tech Stack
 
-LinkedIn:
-https://www.linkedin.com/in/jerishwin-joseph/
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![PyTest](https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-EA4335?style=for-the-badge)
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-Email:
-jerishwinj@gmail.com
+---
+
+## 🎯 2026 Goals
+
+- Build Production-Grade Test Automation Frameworks
+- Master Spring Boot and REST APIs
+- Learn Advanced CI/CD Practices
+- Contribute to Open Source Projects
+- Secure a Software Engineering / SDET Role
+
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jerishwin%20Joseph-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jerishwin-joseph/)
+
+📧 **Email:** jerishwinj@gmail.com
+
+🌐 **GitHub:** https://github.com/Jerishwin
